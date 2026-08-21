@@ -11,7 +11,7 @@ type Task = {
 }
 
 const tasks: Task[] = [
-  {id: 1, title: "Задача 1", completed: true, priority: 1, description: "Описание задачи 1"},
+  {id: 1, title: "Изучить Git", completed: true, priority: 1, description: "Описание задачи 1"},
   {id: 2, title: "Задача 2", completed: true, priority: 2},
   {id: 3, title: "Задача 3", completed: true, priority: 3, description: "Описание задачи 3"}
 ];
